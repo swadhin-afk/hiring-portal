@@ -1,0 +1,30 @@
+.job-title {
+  font-size: 1.4rem;
+  color: #1e3a8a;
+  margin-bottom: 10px;
+  font-weight: bold;
+  text-shadow: 1px 1px 2px rgba(0, 0, 0, 0.1);
+}
+
+.job-detail {
+  margin: 6px 0;
+  font-size: 0.95rem;
+  color: #444;
+}
+
+.status-badge {
+  padding: 4px 10px;
+  font-size: 0.8rem;
+  font-weight: 600;
+  border-radius: 9999px;
+}
+
+.status-open {
+  background-color: #d1fae5;
+  color: #047857;
+}
+
+.status-closed {
+  background-color: #fee2e2;
+  color: #b91c1c;
+}

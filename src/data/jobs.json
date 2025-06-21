@@ -1,0 +1,16 @@
+[
+  {
+    "id": "1",
+    "title": "Frontend Developer",
+    "company": "Tech Co",
+    "location": "Remote",
+    "description": "Build React applications."
+  },
+  {
+    "id": "2",
+    "title": "Backend Developer",
+    "company": "CodeBase",
+    "location": "Bangalore",
+    "description": "Develop Node.js APIs."
+  }
+]
